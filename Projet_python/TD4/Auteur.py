@@ -1,5 +1,3 @@
-from Document import Document, id2doc
-from Auteur import Auteur
 class Auteur:
     def __init__(self, name):
         self.name = name
@@ -25,5 +23,3 @@ class Auteur:
             return 0
         total_carac = sum(len(doc.texte) for doc in self.production.values())
         return total_carac / self.nbdocs
-
-
