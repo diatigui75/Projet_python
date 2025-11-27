@@ -1,0 +1,4 @@
+id,titre,auteur,date,url,texte,type
+ba295a13-313e-45e1-a4f2-e1d557743e2c,Introduction à Python,Julien Velcin,2025-10-01,https://example.com/doc1,Python est un langage de programmation puissant et facile à apprendre...,Document
+8bcdbb71-9014-4697-8f5b-fc3061baeeb7,Pourquoi Python est-il si populaire ?,u/PythonLover,2025-10-02,https://reddit.com/r/Python/comments/123456,Python est populaire grâce à sa simplicité et sa polyvalence...,Reddit
+d87f8867-1891-4c3d-bda3-1c52fb5aacb6,Nouvelle approche en Machine Learning,"Alice Smith, Bob Johnson, Charlie Brown",2025-09-15,https://arxiv.org/abs/2509.12345,Nous proposons une nouvelle approche pour l'apprentissage automatique...,Arxiv
